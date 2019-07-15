@@ -1,2 +1,3 @@
-p=int(input())
-print(p+1)
+aji=int(input())
+print(aji+1)
+
